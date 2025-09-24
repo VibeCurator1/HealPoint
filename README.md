@@ -110,7 +110,7 @@ To set up BloodLife locally, follow these steps:
 
        npm start
     
-- Access the application. Open your web browser and visit http://localhost:3000 to access the application.
+
 
 
 ## Usage
@@ -132,6 +132,4 @@ To set up BloodLife locally, follow these steps:
 - JWT - JSON Web Token for user authentication and authorization
 - Bcrypt - Password hashing library for secure password storage
 
-## Live Link
 
-The live project: [AppointDoc](https://appoint-doc.vercel.app/login)
